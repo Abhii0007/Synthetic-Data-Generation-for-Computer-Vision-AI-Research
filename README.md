@@ -2,7 +2,7 @@
 # Large Scale (Synthetic Data Generation) for Masked image segmentation using Blender 3D software for DEEP LEARNING - Computer Vision(YOLO)
         -by Abhishek Verma
 
-        #Using Blender for Synthetic Data generation, name of both rendered image compositor image should be same, during rendering, images must save in 2 different folders named as (Images & Mask)
+#Using Blender for Synthetic Data generation, name of both rendered image compositor image should be same, during rendering, images must save in 2 different folders named as (Images & Mask)
 
 * imp Notes:-
 1. To hide a object select object and and enable Mask -> HOLDOUT
@@ -12,3 +12,14 @@
 
 ![mask technique snap](images/Screenshot1.png)
 
+#Convert Masked-image to polygons annotations .txt file------------black = background/ white = object masked
+
+![mask to label](images/screenshot2.png)
+
+
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
