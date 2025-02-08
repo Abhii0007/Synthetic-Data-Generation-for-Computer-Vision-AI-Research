@@ -10,4 +10,5 @@
 3. background = Film > Transparent
 4. object to be trained should be white(255,255,255) and background(0,0,0)
 
-5. ![image1](images/image1.png)
+![Screenshot](images/Screenshot_2025-02-07_124007.png)
+
