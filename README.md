@@ -3,7 +3,8 @@
 # Large Scale (Synthetic Data Generation) for Masked image segmentation using Blender 3D software for DEEP LEARNING - Computer Vision(YOLO)
         -by Abhishek Verma
 
-
+Training Batch image:-
+![mask to label](Model/train_batch1802.jpg)
 
 Project Overview:-
 
