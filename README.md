@@ -21,6 +21,8 @@ Generative Models: Deep learning models, such as GANs (Generative Adversarial Ne
 Benefits of Synthetic Data in Deep Learning and Computer Vision
 Overcoming Data Scarcity: Synthetic data is crucial when real-world data is limited, as it allows you to create large, diverse datasets for training.
 
+![mask technique snap](images/Screenshot1.png)
+
 Cost-Effective:-
                 
         Creating synthetic data is often cheaper than collecting, annotating, and cleaning real-world data.
