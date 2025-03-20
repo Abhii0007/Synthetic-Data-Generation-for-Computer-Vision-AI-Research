@@ -12,8 +12,10 @@ Project Overview:-
 
 
 What is Synthetic Data Generation?:-
+![mask technique snap](images/image1.jpg)
 
-        Synthetic data generation refers to the creation of artificial data designed to simulate real-world data. In the context of deep learning and computer vision, synthetic data is generated for tasks such as image segmentation, object detection, and classification. It is created using a variety of methods, including:
+
+Synthetic data generation refers to the creation of artificial data designed to simulate real-world data. In the context of deep learning and computer vision, synthetic data is generated for tasks such as image segmentation, object detection, and classification. It is created using a variety of methods, including:
 
 3D Rendering: Computer-generated images are produced using simulation tools, often using detailed models to simulate real-world environments.
 Augmentation: Manipulating existing real-world data (e.g., flipping, rotating, color-changing) to create new training examples.
