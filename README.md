@@ -12,6 +12,7 @@ Project Overview:-
 
 
 What is Synthetic Data Generation?:-
+
 ![mask technique snap](images/image1.jpg)
 
 
@@ -37,7 +38,7 @@ How Does This Project Work?:-
         Synthetic Data Generation Applications in the Future
         As deep learning and computer vision continue to evolve, synthetic data generation will become increasingly important. 
 Application and implementations:-
-
+![mask technique snap](images/Screenshot1.png)
 Cost-Effective mass data generation:-
                 
         Creating synthetic data is often cheaper than collecting, annotating, and cleaning real-world data.
@@ -72,7 +73,7 @@ Training a YOLOv8 Model:-
 5. name of both rendered image compositor image should be same, during rendering
 6. images must save in 2 different folders named as (Images & Mask)
 
-![mask technique snap](images/Screenshot1.png)
+
 
 #Convert Masked-image to polygons annotations .txt file------------black = background/ white = object masked
 
