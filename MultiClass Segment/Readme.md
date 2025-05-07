@@ -1,4 +1,4 @@
-# BlenderMaskGen
+# MultiClass Object Mask Segmentation usign Blender 3D software for Computer Vision models.
 
 **BlenderMaskGen** is a Python-Blender-based pipeline designed for generating high-quality, multiclass segmentation masks using **Object Index** and **Object ID passes**. This synthetic dataset generation approach supports training computer vision models (e.g., semantic and instance segmentation) with pixel-accurate annotations from 3D scenes.
 
@@ -18,7 +18,7 @@
 
 | RGB Image | Segmentation Mask |
 |-----------|-------------------|
-| ![RGB](samples/rgb_sample.png) | ![Mask](samples/mask_sample.png) |
+| ![RGB](images/Mullticlass.png) | ![Mask](samples/mask_sample.png) |
 
 ---
 
