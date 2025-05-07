@@ -4,7 +4,9 @@
         -by Abhishek Verma
 Aim:- To generate masked segment dataset of main profile objects so that it can further use to train the Computer Vision Models Accurately.
 Working Approach for Multiclass Objects Data generation:
-![multiclass_Screenshot](MultiClass%20Mullticlass.png)
+
+![multiclass_Screenshot](MultiClass%20Segment/Mullticlass.png)
+
 
 Training Batch image:-
 ![mask to label](Model/train_batch1802.jpg)
