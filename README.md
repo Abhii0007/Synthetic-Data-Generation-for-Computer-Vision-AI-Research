@@ -15,6 +15,7 @@ Project Overview:-
 
         This project demonstrates the process of synthetic data generation for deep learning and computer vision models, with a focus on polygon-based segmentation using YOLO annotations. Synthetic data generation plays a vital role in training models when real-world labeled data is scarce, expensive, or hard to obtain. By simulating realistic datasets through algorithms or 3D rendering, we can augment training sets for better model accuracy and generalization.
 
+To understand multiclass segmentation, first we need to understand,
 
 What is Synthetic Data Generation?:-
 
