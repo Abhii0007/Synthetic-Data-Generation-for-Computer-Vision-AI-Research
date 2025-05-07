@@ -14,11 +14,9 @@
 
 ---
 
-## 📷 Sample Outputs
+## 📷 Approach
 
-| RGB Image | Segmentation Mask |
-|-----------|-------------------|
-| ![RGB](images/Mullticlass.png) | ![Mask](samples/mask_sample.png) |
+![Screenshot](Mullticlass.png)
 
 ---
 
