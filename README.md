@@ -8,8 +8,7 @@ Working Approach for Multiclass Objects Data generation:
 ![multiclass_Screenshot](MultiClass%20Segment/Mullticlass.png)
 
 
-Training Batch image:-
-![mask to label](Model/train_batch1802.jpg)
+
 
 Project Overview:-
 
@@ -44,6 +43,9 @@ How Does This Project Work?:-
         As deep learning and computer vision continue to evolve, synthetic data generation will become increasingly important. 
 Application and implementations:-
 ![mask technique snap](images/Screenshot1.png)
+
+Deployed model Training Batch image:-
+![mask to label](Model/train_batch1802.jpg)
 Cost-Effective mass data generation:-
                 
         Creating synthetic data is often cheaper than collecting, annotating, and cleaning real-world data.
