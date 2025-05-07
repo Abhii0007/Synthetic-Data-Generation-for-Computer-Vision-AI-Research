@@ -49,5 +49,5 @@
 
 ---
 
-## 🗂 Folder Structure
-
+## 🗂 Folder Structure Example for organised mask generations
+![Screenshot](before_mask.png)
